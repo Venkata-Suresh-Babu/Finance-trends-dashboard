@@ -1,8 +1,11 @@
 # Finance-trends-dashboard
 
-💼 Turning Financial Data Into Actionable Insights: My Power BI Dashboard Journey
+**💼 Turning Financial Data Into Actionable Insights:**
+
+
+My Power BI Dashboard Journey
 In today’s data-driven finance world, numbers tell stories — if you know how to listen.
- Here’s how I transformed raw investment data into a Power BI dashboard that reveals how modern investors think, act, and plan their financial futures.
+Here’s how I transformed raw investment data into a Power BI dashboard that reveals how modern investors think, act, and plan their financial futures.
 
 <img width="1327" height="695" alt="image" src="https://github.com/user-attachments/assets/b92042c7-8162-4004-b2bb-9693aeef2dd3" />
 
@@ -39,6 +42,8 @@ Monitoring patterns (Daily/Weekly/Monthly) split almost equally — a sign of en
 
 **📈 Impact & Value:**
 Through this dashboard, I was able to:
+
+
  ✅ Identify key behavioral clusters among investors for targeted advisory strategies.
 
  
