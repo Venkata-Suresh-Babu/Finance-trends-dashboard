@@ -13,8 +13,12 @@ Here’s how I transformed raw investment data into a Power BI dashboard that re
 # 🎯 Project Overview
 
 **📊 Finance Trends Dashboard**
- 🧩 Tools & Skills: Power BI | DAX | Data Modeling | Data Cleaning | Visualization Design | Financial Analytics
-🔍 Objective: To analyze investor demographics, risk behavior, investment preferences, and return expectations — and turn complex datasets into clear, strategic insights for decision-makers.
+
+
+**🧩 Tools & Skills:** Power BI | DAX | Data Modeling | Data Cleaning | Visualization Design | Financial Analytics
+
+
+**🔍 Objective:** To analyze investor demographics, risk behavior, investment preferences, and return expectations — and turn complex datasets into clear, strategic insights for decision-makers.
 
 
 # 🔍 Key Analytical Insights
