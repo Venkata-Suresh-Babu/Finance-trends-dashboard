@@ -4,6 +4,8 @@
 In today’s data-driven finance world, numbers tell stories — if you know how to listen.
  Here’s how I transformed raw investment data into a Power BI dashboard that reveals how modern investors think, act, and plan their financial futures.
 
+<img width="1327" height="695" alt="image" src="https://github.com/user-attachments/assets/b92042c7-8162-4004-b2bb-9693aeef2dd3" />
+
 
 🎯 Project Overview
 
@@ -38,6 +40,10 @@ Through this dashboard, I was able to:
  ✅ Visualize risk-return relationships across age and gender segments.
  ✅ Provide data-backed recommendations for financial institutions on improving investor engagement.
  ✅ Demonstrate how data visualization can translate financial complexity into actionable insights.
+
+ <img width="1243" height="711" alt="image" src="https://github.com/user-attachments/assets/a6381353-de85-425a-8a32-2582c3cd14d4" />
+
+<img width="1273" height="693" alt="image" src="https://github.com/user-attachments/assets/28b055a9-bd94-41c4-91dd-6c2fb9e762c7" />
 
 
 🧠 What I Learned : 
